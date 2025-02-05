@@ -47,7 +47,7 @@ Tech for Impact GitHub
 ### 2. 캠퍼스 참여
 - 협력 대학 재학생 대상
 - 정규 학기 과목으로 운영
-- [캠퍼스 프로그램 알아보기](./campus)
+- [캠퍼스 프로그램 알아보기](https://github.com/tech-for-impact/campus)
 
 ### 3. 오픈소스 기여
 - 공개된 프로젝트에 기여
